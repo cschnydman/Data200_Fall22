@@ -10,6 +10,8 @@
 
 * **Meeting day/time**: M-Th 3:00-4:15pm, Tome 121
 * Office hours also available by appointment.
+* **QRA:** Zimeng Liu [liuz@dickinson.edu](mailto:liuz@dickinson.edu)
+* **QRA Office Hours:** W-Th 1:45-2:45pm @Rector North 2311
 
 ## Course description ##
 
@@ -39,5 +41,6 @@ Homework           |   40   |    40.0%   |
 
 * [Python for Data Analysis](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf) by Wes McKinney
 * [SQL Basics](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf)
+* [LaTeX Cheat Sheet](http://users.dickinson.edu/~richesod/latex/latexcheatsheet.pdf) and [an excellent tutorial](https://www.youtube.com/watch?v=NXW4cbHBthY) by Dave Richeson
 * [QuantEcon](https://quantecon.org)
 * [Live question link](https://itempool.com/ernbilen/live)
